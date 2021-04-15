@@ -9,4 +9,5 @@ ML01
 	- MNIST dataset
 	
 ML02
- - 
+ - Single layer perceptron
+ - Multi layer perceptron
